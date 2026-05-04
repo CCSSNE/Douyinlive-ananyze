@@ -6,7 +6,7 @@
 
 **仅自用 仅展示 提供思路 非开源**
 
-## 前端展示
+## 前端展示 (旧版本)
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/187072ec-688b-499f-9a68-64fc387baf53" width="75%" />
